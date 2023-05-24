@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "02Basic",
+			"path": "."
+		},
+		{
+			"name": "PURETS",
+			"path": "../../PURETS"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "PURETS"
+	}
+}
